@@ -28,9 +28,10 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mousta-med"/>
   <img src="https://github-profile-trophy.vercel.app/?username=mousta-med" alt="mousta-med" />
  <div/>
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mousta-med&" alt="mousta-med" /></p>
-  
+ <div>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mousta-med&" alt="mousta-med" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mousta-med"/>
+  <div/>
  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mousta-med"/>
 
 
