@@ -29,9 +29,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mousta-med" alt="mousta-med" />
  <div/>
  <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mousta-med&" alt="mousta-med" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mousta-med"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mousta-med"/>
  <div/>
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mousta-med"/>
+ 
 
 
