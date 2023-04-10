@@ -12,12 +12,12 @@
 - ⚡ Fun fact **I think Im Funny**
 
 <h3 align="left">Connect with me:</h3>
-- ⚡ Gmail : **mohammed.moustarhfir@gmail.com**
+- ⚡  
 - ⚡  ****
 
 - 🌱 Linkedin **[Mohammed.Moustarhfir](https://www.linkedin.com/in/mohammed-moustarhfir/)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mousta-Med](https://github.com/Mousta-Med)
+- 👨‍💻 Gmail : **mohammed.moustarhfir@gmail.com**
 
 - ⚡ Phone Number : **+212 644291265**
 
