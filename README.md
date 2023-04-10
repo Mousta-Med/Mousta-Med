@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mousta-med&label=Profile%20views&color=0e75b6&style=flat" alt="mousta-med" /> </p>
 
+![image]({[BadgeURLHere](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)})
+
 - 🌱 I’m currently learning **Laravel Veu.Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mousta-Med](https://github.com/Mousta-Med)
