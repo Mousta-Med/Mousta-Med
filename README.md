@@ -26,7 +26,7 @@
  <h3 align="left">Stats:</h3>
  <div> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mousta-med"/>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mousta-med" alt="mousta-med" /></a> </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=mousta-med" alt="mousta-med" />
  <div/>
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mousta-med&" alt="mousta-med" /></p>
