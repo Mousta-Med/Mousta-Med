@@ -26,12 +26,9 @@
  <h3 align="left">Stats:</h3>
  <div> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mousta-med"/>
- <img src="https://github-profile-trophy.vercel.app/?username=mousta-med" alt="mousta-med" />
- <div/>
- <div>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mousta-med"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mousta-med"/>
  <div/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mousta-med"/>
  
 
 
