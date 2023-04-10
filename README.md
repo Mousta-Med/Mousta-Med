@@ -12,8 +12,8 @@
 - ⚡ Fun fact **I think Im Funny**
 
 <h3 align="left">Connect with me:</h3>
-- ⚡  
-- ⚡  ****
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}" />
 
 - 🌱 Linkedin **[Mohammed.Moustarhfir](https://www.linkedin.com/in/mohammed-moustarhfir/)**
 
