@@ -13,11 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 🌱 Linkedin **[Mohammed.Moustarhfir](https://www.linkedin.com/in/mohammed-moustarhfir/)**
-
-- 👨‍💻 Gmail : **mohammed.moustarhfir@gmail.com**
-
-- ⚡ Phone Number : **+212 644291265**
+<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/mohammed-moustarhfir/)" />
 
 
 <h3 align="left">Languages and Tools:</h3>
