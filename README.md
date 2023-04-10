@@ -12,6 +12,7 @@
 - ⚡ Fun fact **I think Im Funny**
 
 <h3 align="left">Connect with me:</h3>
+- <p>Linkedin : https://www.linkedin.com/in/mohammed-moustarhfir/</p>
 <p align="left">
 </p>
 
