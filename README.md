@@ -3,11 +3,7 @@
 <h3 align="left">About:</h3>
 
 <p>
-I'm Mohamed Moustarhfir, a web developer with experience in front-end technologies such as HTML, CSS, Bootstrap, Tailwind CSS, and JavaScript. I also have experience with back-end technologies such as PHP, MVC, MySQL, and Laravel, as well as UI/UX tools such as Figma and Adobe XD. I am proficient in design tools such as UML and Agile methodologies such as Scrum. In addition, I am proficient in using Git, Github, REST API, and WordPress.
-
-I am currently enrolled in the web and mobile development program at YouCode Safi, a joint venture between OCP Simplon and the Moroccan government. Before that, I completed a program in Electrical Maintenance at the OFPPT Institute Technologie Appliquee 1 in Safi, and a baccalaureate in Electrotechnique et Equipments Communicants at Lycée Al Khawarizmi, also in Safi.
-
-I complete several web development projects that have involved designing and developing applications, including an application to manage hotel reservations and the NFTea marketplace. For these projects, I have used many web technologies such as HTML, CSS, Bootstrap, UML, JavaScript, OOP, MySQL, Git, PHP, and MVC.<p/>
+I'm Mohamed Moustarhfir, a web developer with experience in front-end technologies such as HTML, CSS, Bootstrap, Tailwind CSS, and JavaScript. I also have experience with back-end technologies such as PHP, MVC, MySQL, and Laravel, as well as UI/UX tools such as Figma and Adobe XD. I am proficient in design tools such as UML and Agile methodologies such as Scrum. In addition, I am proficient in using Git, Github, REST API, and WordPress.<p/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mousta-med&label=Profile%20views&color=0e75b6&style=flat" alt="mousta-med" /> </p>
 
