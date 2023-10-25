@@ -8,7 +8,7 @@ I'm Mohamed Moustarhfir, a web developer with experience in front-end technologi
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mousta-med&label=Profile%20views&color=0e75b6&style=flat" alt="mousta-med" /> </p>
 
 
-- 🌱 I’m currently learning **Laravel Veu.Js**
+- 🌱 I’m currently learning **Angular, Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mousta-Med](https://github.com/Mousta-Med?tab=repositories)
 
