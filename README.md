@@ -2,10 +2,10 @@
 <h3 align="center">A Passionate Fullstack developer</h3>
 <h3 align="left">About:</h3>
 
-<div>
-<p>I'm Mohamed Moustarhfir, a web developer with experience in front-end technologies such as HTML, CSS, Bootstrap, Tailwind CSS, and JavaScript. I also have experience with back-end technologies such as PHP, MVC, MySQL, and Laravel, as well as UI/UX tools such as Figma and Adobe XD. I am proficient in design tools such as UML and Agile methodologies such as Scrum. In addition, I am proficient in using Git, Github, REST API, and WordPress<p/>
-  <a href="https://app.daily.dev/mohammedmoustarhfir"><img src="https://api.daily.dev/devcards/8e6d6a3fee9748eea8705ef19b5afab1.png?r=sye" width="400" alt="Mohammed moustarhfir's Dev Card"/></a>
-</div>
+I'm Mohamed Moustarhfir, a web developer with experience in front-end technologies such as HTML, CSS, Bootstrap, Tailwind CSS, and JavaScript. I also have experience with back-end technologies such as PHP, MVC, MySQL, and Laravel, as well as UI/UX tools such as Figma and Adobe XD. I am proficient in design tools such as UML and Agile methodologies such as Scrum. In addition, I am proficient in using Git, GitHub, REST API, and WordPress.
+
+[![Mohammed moustarhfir's Dev Card](https://api.daily.dev/devcards/8e6d6a3fee9748eea8705ef19b5afab1.png?r=sye)](https://app.daily.dev/mohammedmoustarhfir)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mousta-med&label=Profile%20views&color=0e75b6&style=flat" alt="mousta-med" /> </p>
