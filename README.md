@@ -2,17 +2,15 @@
 <h3 align="center">A Passionate Fullstack developer</h3>
 
 <div align="center">
-  <p>TTETTETTETETT</p>
-  <p>GFHGFJGFHGFHFJHG</p>
+  <p style="display: inline;">TTETTETTETETT</p>
+  <p style="display: inline;">GFHGFJGFHGFHFJHG</p>
 </div>
 
 # 💫 About Me:
 I'm Mohamed Moustarhfir, a web developer with experience in front-end technologies such as HTML, CSS, Bootstrap, Tailwind CSS, and JavaScript. I also have experience with back-end technologies such as PHP, MVC, MySQL, and Laravel, as well as UI/UX tools such as Figma and Adobe XD. I am proficient in design tools such as UML and Agile methodologies such as Scrum. In addition, I am proficient in using Git, Github, REST API, and WordPress.<br>
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/mohammed-moustarhfir">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-moustarhfir) 
 <a href="mailto:moustamuhammed@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
