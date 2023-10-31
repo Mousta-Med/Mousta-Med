@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Fullstack developer</h3>
 
 <div align="center">
-  <div style="display: flex;">
+  <div style="display: flex; flex-direction: row;">
     <p>TTETTETTETETT</p>
     <p>GFHGFJGFHGFHFJHG</p>
   </div>
