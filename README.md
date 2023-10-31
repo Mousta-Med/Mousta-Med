@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">A Passionate Fullstack developer</h3>
 
-<div align="center">
-  <div style="display: flex; flex-direction: row;">
-    <p>TTETTETTETETT</p>
-    <p>GFHGFJGFHGFHFJHG</p>
-  </div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+   <h2>Ciao</h2>
+   <a href=""><strong>English Version »</strong></a>
 </div>
 
 # 💫 About Me:
