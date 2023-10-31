@@ -2,8 +2,10 @@
 <h3 align="center">A Passionate Fullstack developer</h3>
 
 <div align="center">
-  <p style="display: inline;">TTETTETTETETT</p>
-  <p style="display: inline;">GFHGFJGFHGFHFJHG</p>
+  <div style="display: flex;">
+    <p>TTETTETTETETT</p>
+    <p>GFHGFJGFHGFHFJHG</p>
+  </div>
 </div>
 
 # 💫 About Me:
