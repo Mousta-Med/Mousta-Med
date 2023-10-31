@@ -18,9 +18,6 @@ I'm Mohamed Moustarhfir, a web developer with experience in front-end technologi
   <img src="https://github-readme-stats.vercel.app/api?username=mousta-med&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=mousta-med&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-![](https://github-readme-stats.vercel.app/api?username=Mousta-Med&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mousta-Med&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mousta-Med&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mousta-Med&theme=radical&no-frame=false&no-bg=false&margin-w=4)
